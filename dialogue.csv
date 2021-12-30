@@ -1,0 +1,516 @@
+dialogue,labels
+"Yo, [player]! Whaddya want? [catchphrase]!",cranky
+"Hey, hey, [player]! You got somethin' you wanna say to me? Is it ""[catchphrase]""?",cranky
+"Yo, [player]! What're ya doin'? [catchphrase]?",cranky
+"Whoa, easy now, [player]. Deep breaths... OK. Now tell papa what's up, [catchphrase].",cranky
+"Oh. Hey, [player]. Whaddya want from me? [Catchphrase]?",cranky
+"All right, you... You got some kinda problem or something? What's your deal, [player]?",cranky
+"Yo! How ya doin', [player]? Hopefully well? [Catchphrase]?",cranky
+"Whaat?! [Player]?! You're everywhere, [catchphrase]!",cranky
+"Nice weather, huh, [player]? Nice days put me in a nice mood, you know? [Catchphrase]?",cranky
+"Yo, [player]! Good to see ya!",cranky
+"Hey, [player]! [Catchphrase]!",cranky
+"Well, nighttime is nice for rechargin' your batteries, so take it nice and slow, all right, [player]!",cranky
+So you wanted to talk to me?,cranky
+"So, did you need something?",cranky
+So what's up?,cranky
+"Wait—what?! Whatever. See ya later, [catchphrase]!",cranky
+"Oh! See ya later, [catchphrase]!",cranky
+"Oh, really? Well, smell ya later then, I guess. [catchphrase]!",cranky
+"Hey, [player], it's pop-quiz time! What do you think is easily the most important aspect for a man to live his life by?",cranky
+"This might seem a little weird, but can I ask you a question? Be brutal. What do you think of me?",cranky
+"I feel a little hungry! I'm in the mood for fresh fruit! I'm not picky, so any kind is fine! Have you got my back?",cranky
+"Rumors are kinda scary, aren't they? As they get retold from person to person, more things get added and the story gets bigger and bigger!",cranky
+"Say, [male villager] and [female villager] are together a lot, don't you think? Now, I'm not trying to say they look like super-close friends or nothing. It's more like a frank friendship... Well, I'm just trying to say the two of them seem to be doing well together, [catchphrase].",cranky
+"On days like this, I want to down a cup of [oolong tea, mint tea, rice milk] and refresh myself by working up a sweat!",cranky
+...Oh! I was just about to use the weather as an excuse! But I'm not gonna lose to the weather! I'm not gonna lose to anything! [Catchphrase]!,cranky
+"There're ways to spend sunny days, and then there're ways to spend rainy days! But...sometimes you need the courage to do the opposite thing and surprise everyone! That's how new ideas are born! So let's birth some ideas! GAHAHA!",cranky
+"If you do the same things every day, your body and soul will get stale. New challenges! New people! We need adventure! I bet it'd really spice things up around here if we got some visitors, or someone new moved into town...",cranky
+"At this time of a day, in this place, if I just space out for a bit, my mind always drifts to the same thing... Tomorrow's the morning I'll get up early and shock everyone in town... Well, I say that now, but I've never actually done it! GAHAHA!",cranky
+"If you press up, down, left, or right on + there, you can view my room from all sorts of angles! Play with it as much as you like, and take a good look around! You might find something cool, [catchphrase]!",cranky
+Heh... Are you ready now? Sorry to inconvenience you or something!,cranky
+"Oh, I see... Well, your room is a lot cleaner than I expected! I thought it'd be so messy that you wouldn't even be able to see the floor! [Catchphrase]!",cranky
+So how are the other rooms?,cranky
+"When I buy furniture on a whim, I'm so excited that I bolt straight home, no matter where I am... Regardless of how old I get, there's just something fun about brand-new pieces of furniture! [Catchphrase]!",cranky
+"Heh. It's not exactly what I was expecting, but I think it's safe to say this room has your personality.",cranky
+No wonder this room feels so plain. You've got nothing on your walls!,cranky
+"Other people might call this place a mess, but if it works for you, then what's the problem, right? Home is what you make of it! Am I right or am I right?",cranky
+"I feel like I've seen your couch somewhere before... Ah, that's right! Now I remember! It's the [type of sofa or chair]! It was in a magazine the other day! ...What's the matter? Yeah, I read magazines sometimes. What of it?",cranky
+"Come on, [player]. Take it easy and just relax! It's not like I'm here to scrutinize every last detail of your home! GAHAHA! [Catchphrase]!",cranky
+I don't think you could ever get bored living in a room like this. I certainly wouldn't! [Catchphrase]!,cranky
+"If there's anything you don't want me to touch, just let me know in advance, OK? I mean, you probably expected me to come in here and touch all your stuff anyway, but...just to be safe!",cranky
+"We could talk for hours, but if you really want to understand people, take a look at their rooms. I'd say this room speaks volumes about who you really are on the inside! [Catchphrase]! GAHAHA!",cranky
+Hmph. I suppose that's one way of arranging furniture! I think I sort of understand what you're going for...,cranky
+I can tell you probably spend a lot of time in this room! It seems so comfortable to live here!,cranky
+"Mm-hm, I see! So this is where you keep your mansion, huh? It seems pretty cozy, right? [Catchphrase]!",cranky
+"If you compare the smells of other people's rooms, you can definitely tell the difference... Wait! Don't get me wrong! I don't think your room stinks! Er, and I don't go around sniffing rooms!",cranky
+"Well, I think it's about time for me to hit the ol' dusty trail! We didn't really talk about anything important, but it was fun hanging just the same! [Catchphrase]!",cranky
+"Hey, how ya doin'? I thought I'd set up camp here for a little while!",cranky
+I didn't do any research or anything before choosing a place to camp. I think I lucked out with this town!,cranky
+"I heard the local specialty is one of my favorites, the [fruit]! I love this town! GAHAHA!",cranky
+"If you're camping, you gotta eat some chili, right? My homemade chili gets an extra kick from the [town fruit] I put in it. It's good! In fact, it's the best!",cranky
+Sometimes it gets a little miserable sleeping in a tent... But that's all part of the experience! GAHAHA!,cranky
+"Camping! You could also call it ""battling mosquitoes""! You wanna know how I deal with them? I don't! I don't play their little games. It's a battle of wills!",cranky
+The best part of camping is easily the food you get to eat! I wonder why eating outside makes everything taste so much better...,cranky
+"Hey, hey, [player]! What do you think you're doing exactly? Stop pushin' me around!",cranky
+"Look, [player], you've been pushing me around on purpose, haven't you? Well, cut it out, [catchphrase]!",cranky
+"Look, [player]! Don't just push me around! You startin' something? Go away! [Catchphrase]!",cranky
+"...[Player]! Stop pushing me! If you need to say something, just speak up!",cranky
+"Oh, whoa! Who set up in this little trap?",cranky
+"Wh-What's going on?! My butt is stuck, and I can't get out!",cranky
+Who?! Who did this?! I'll get Youuuuuu!,cranky
+"Hey, punk! Why'd you hit me?",cranky
+"Ouch! What gives, [player]?! If you wanna fight, bring it on!",cranky
+"Ooooooh, barbells... That was a good solid hit. You got me good...",cranky
+Durg durgit! I'm surrounded by a bunch of jokers! [Catchphrase]!,cranky
+Leave me alone! I want to be with myself for a little while!,cranky
+"Argh... Look, I'm in a bad mood. If you don't want to hear me say something mean, you should just go away! [Catchphrase]!",cranky
+"'The longest day of the year.' When I was a kid, hearing that would really get me fired up! Doesn't it make it sound like you can play even longer than normal? Nowadays...the first thought that runs through my head is, 'It's really hot outside!' Awwww man, just listen to me! I've become one of those good-for-nothing adults! [Catchphrase]!",cranky
+"Yo, [player]! [Catchphrase]! That sun really isn't going down!",cranky
+"When we go from spring to summer, the days get warmer and warmer... Then the season kicks it up a notch at the Summer Solstice! If you're not a fan of heat, man, these next few months are gonna be brutal! That sun'll melt your face if you're not careful, so you'd better be careful! GAHAHA!",cranky
+"Yo, [player]! [Catchphrase]! Uhh, good evening? Right?",cranky
+"Once we hit the Summer Solstice, that's when I can really slip into the summer mind-set! Make sure the heat doesn't wear you out, though, [player]!",cranky
+It just stays bright forever! [Catchphrase].,cranky
+"Yo, [player]! I just realized it was [time]! It's the Summer Solstice, so the sun won't go down! It makes me want to party all day, [catchphrase]! OK, perhaps not ALL day. I'm not really in my prime party years like I used to be.",cranky
+There isn't even an hour left until the new year starts! I'm starting to get really excited!,cranky
+"Hi there! Do you, like, need me for anything?",peppy
+"Hmm? What's up, [catchphrase]?",peppy
+"Hiya, [player]! What's going on, [catchphrase]?",peppy
+"Hey! Good evening! What a lovely night, [catchphrase]!",peppy
+"Hey, how lucky am I? You're so chatty today, [catchphrase]!",peppy
+"Oh! It's you again, [player]. Yeah, let's party all night long, [catchphrase]!",peppy
+"Time again for another talk? Of course, [player]!",peppy
+"Woohoo! Want to talk, [player]?",peppy
+"You want to talk again? Awesome, [catchphrase]!",peppy
+"You're looking so YOU today, [player]!",peppy
+"Woohoo, [player]! Still running around, I see! What do you want to talk about, [catchphrase]?",peppy
+"Ohmigosh! Hi again! Nice Afternoon, right? What's up?",peppy
+"You want to talk again? Awesome, [catchphrase]!",peppy
+"Time again for another talk? Of course, [player]!",peppy
+"There you are again for the umpteenth time today, [player]! Wait! Has it been a thousand times already? Infinity times? Number... exceeding...brain capacity!",peppy
+"I keep seeing you again and again, [player]. Or, NO! Am I stuck in a time loop? I've got to break out! I mean, I like you, but that's just too much!",peppy
+"Woohoohoo! How many times have I seen you today, [player]? Or, wait, have you been CLONED? Ohmigosh, I hope I'm friends with all of you!",peppy
+"Hey, [player]! I keep hearing people say you're, like, totally a [reputation]. I'm way jealous that you're the center of attention right now! That's supposed to be my job!",peppy
+Just an average day in [town]! But that doesn't mean we shouldn't be dressing up to the nines! We can't slack off in the style department just because there's no big event to attend!,peppy
+"Pete's super busy making deliveries today. He'd better be careful with all my fan letters! I'm expecting him to drop off, like, a whole bunch of 'em. I'd better clean up my mailbox to make room!",peppy
+"What's the word in [Town], [player]? C'mon, I'm dying to hear the latest gossip! Hmm... You're not talking. Oh! You must be keeping a sworn secret! Spill the beans, [catchphrase]!",peppy
+"What do you think of this look? Yeah, I'm trying to be SO very cute today. I think my outfit would totally flop if it wasn't for the cute [clothing] I have on!",peppy
+"Hmm... Now, where did I put that silly mountain bike? UGH! I'll never find it in all of these boxes!",peppy
+"Anytime I see [male villager] and [female villager] hanging out together, I'm all like, look at those two! They seem to have the perfect relationship. Nothing too serious, but totally not shallow, either. Sometimes I forget that friends are for fun, you know? We could learn a lesson from those two!",peppy
+"Do you think [Villager 1] and [Villager 2] are good buddies? They seem like they would be. I mean, it's not like they're BFFs or anything...but they don't hate each other. That's a good start!",peppy
+"Hey, [player], ever wanted to be a pop star?",peppy
+"Hey, what do you think of my whole look today?",peppy
+"I'm a big fan of fairy tales, but I always forget the endings! Can you help me remember one? So what did that nasty, evil witch give to the beautiful princess?",peppy
+"So if you were to try any of these extremely, extreme things, which would it be?",peppy
+Hey! It's [player]! I knew you wouldn't be able to stay away once you heard I'd be here!,peppy
+"Yoo-hoo, [player]! Let's dance! We've really got to live it up in honor of [birthday villager]!",peppy
+Do you think [birthday villager] liked the present? I bet you make sooooooo happy.,peppy
+"I wish it was MY birthday! I'm glad it's [birthday villager]'s special day, but I'm totally bummed out! Promise me you'll come to my next birthday party, [player]! And bring me an awesome gift!",peppy
+"Birthday bashes are the best! Seriously, I'm always looking for an excuse to par-TAY!",peppy
+"This has been SUCH a fun party! I got to see you, AND I got to eat cake. It's, like, the perfect day! Wouldn't it be nice if every day was someone's birthday? Just imagine all the parties, [catchphrase]!",peppy
+"[Birthday villager] must be pretty happy. Not only is it [his/her] birthday, but the coolest people in town are here! By the way, when I said the coolest people in town, I totally meant you and me.",peppy
+"Hey! You SO clearly don't want to be good friends with me. You'd better stop that, [catchphrase]!",peppy
+Knock it off! Why are you pushing me?! Do you think it's cute or something? Because it's NOT!,peppy
+"That's seriously annoying! You DO know that, right, [catchphrase]?!",peppy
+"Eeeek! That's totally awful! Why would you DO that, [catchphrase]?",peppy
+"What's up with you? Don't you think it's awful, [catchphrase]?",peppy
+"AAAAAAACCCCCKKKK! Not cool, everyone! I'm, like really furious with you right now!",peppy
+"NOOOOOOOOOOO!! Super OWIE-OW! What's going on in this town? It's, like, the pits!",peppy
+WAAAAAAAAAAAAAA! Who in the WORLD dug a pitfall right here where I was walking?!,peppy
+"OUCH! Why are you doing that? Cut it out already, [catchphrase]!",peppy
+"Hey! You SO clearly don't want to be good friends with me. You'd better stop that, [catchphrase]!",peppy
+"THAT HURTS! Why would you keep smacking me like that, [catchphrase]?",peppy
+"That's so irritating! Why not throw [food] at the back of my head, [catchphrase]?",peppy
+"Now just hold on! What's gotten into you? You DO know that makes me like you a LOT less, right?!",peppy
+Oh boy... It is SO not like me to be all blue. Why can't I just be happy again?,peppy
+"Sigh... I'm having, like, the worst day ever. Being sad makes me so...SAD!",peppy
+"Sniff... Sorry, [player], but I think I need to be alone right now. I'm, like, sad.",peppy
+"I think we need to take a break, [player]. Why don't you just leave me alone for a while, OK?",peppy
+"Look, I don't want to hear it! You need to just step away from this situation, [catchphrase]!",peppy
+"My feelings are, like, super hurt right now! You shouldn't treat me like that, [catchphrase]!",peppy
+"ARGH!!! I am so...GRRR! Seriously, you should stay away from me today. I'm in a MOOD!",peppy
+"I am in the WORST MOOD EVER! If you know what's good for you, you'll walk away now, [player]!",peppy
+"AHHH!!! I'm usually good at keeping my cool, but that is SO not gonna happen right now! I am MAD!!!",peppy
+"Oh bums! I was trying to remember something, but it's gone. Like, poof! There goes my thought! Sorry, but I need to concentrate for a while and try to re-remember that thing I was trying to remember!",peppy
+"Um...I know you want to chat and all, but I need to use my brain power to concentrate right now!",peppy
+"Can we chat later? I want to make sure I have something clever to say, but that's not going to happen now!",peppy
+"I bet you weren't expecting to see super-stylish ME here! Actually, I wasn't expecting to be here either. But I'm SO glad I came. I took a bite of a famous [town] [fruit], and it was amazing!",peppy
+"I've got stars in my eyes! Oh, wait... Those are actually stars in the skies! Haha! Camping is the BEST!",peppy
+"Camp meals are, like, SO much more delish than regular meals. Must be all this fresh air! I mean, [food] is usually pretty yummy. But when you're camping, it's SUPER YUM!",peppy
+I'm so glad I decided to camp out here in the wild. I thought I'd just get dirty and stuff... But all of this fresh air is doing wonders for my complexion! It's like a free beauty treatment!,peppy
+"I bet no one in town was expecting a superstar like me to come here for a camping trip! I hope I'm not causing a big fuss or anything. Go about your normal business, folks! Nothing to see!",peppy
+"Eep! Feathers! Falling from the sky! Didja see 'em, [player]? This is, like, the most magical day EVER! You want some feathers too, [player]? Sure you do. They're feathers, for pete's sake! And I know how to get 'em... but I'm not gonna spill the beans. Not yet, at least! Hee hee!",peppy
+"I love Festivale! It's the one day when everyone in [Town] comes together to cut a rug! Just listening to their cheers and laughter makes me feel so happy, [catchphrase]!",peppy
+There must be a special Festivale guest here today -- someone who knows how to shake a tail feather!,peppy
+"Ohmigosh! It sounds like everyone is having SO much Festivale fun outside, [catchphrase]! What am I doing sitting in here all cooped up? I should be outside dancing up a storm!",peppy
+"Listen to that music out there! Can't you feel the rhythm in your soul, [player]? I'm the queen of this dancing scene, and don't you ever forget it!",peppy
+"Sounds like everyone is having a rocking-good time outside! When I hear music, I've gotta dance!",peppy
+"It just doesn't FEEL like summer until the Summer Solstice, right? But it's offically here now! Who knows what kinda crazy trends I'm going to try out this summer? Just wait and see, [catchphrase]!",peppy
+"We gotta dance until the last rays go away! We won't have a day like this for another year, [catchphrase]!",peppy
+"There's only one problem with the sun being up all day long-you gotta avoid getting a sunburn! Like, ouch!",peppy
+"The sun probably decided to stay out all day and night 'cause it knows how bright I shine! It's totally competing with me! Well, bring it on, Mr. Sun! Let's see who sparkles more!",peppy
+I wonder how long I could stay awake if the sun decided to stay up and never set? I bet I could stay awake forever! Sleep is for babies and puppies!,peppy
+"It's STILL light out?! What an amazing night, right?",peppy
+"Hooray for the Summer Solstice! It's like my day is twice as long today, [Player]. Sun, sun, sun!",peppy
+"Keep the groove going, [Player]! The big disco ball in the sky is going to keep turning for hours yet!",peppy
+Can you believe it? The new year is almost here! And I have SO much stuff left to do!,peppy
+Check out that stylish hat! I'm glad I'm not the only one to get all spruced up for the countdown!,peppy
+"This year has been EPIC! I'm looking totally pumped for the next year, 'cause I bet it's gonna be epic too!",peppy
+Why am I so nervous about the new year? I should be excited that we all get a fresh start!,peppy
+"Good morning, [player]!",normal
+"Hello again! How can I help, [catchphrase]?",normal
+"Hi, [player]. Need to chat about something, [catchphrase]?",normal
+"Hi, [player]! Sunny mornings just make me want to dance, [catchphrase].",normal
+"Hi, [player]! What's going on, [catchphrase]?",normal
+"Hi, [player]! What can I do for you, [catchphrase]?",normal
+"Hi there, [player]! It's nice to see so much of you today, [catchphrase].",normal
+"Hello again. Doing all right, [catchphrase]?",normal
+"Wow! I can't seem to bump into anyone else today, [player]!",normal
+"Wow! It's already [specified time]? Time flies when you're having fun, [catchphrase]. It's true.",normal
+"Yaaay, it's [player] again! The sun might have gone to sleep, but that doesn't mean we have to!",normal
+"[Greeting]! It's nice to see so much of you today, [catchphrase].",normal
+"[Greeting]! You've been following me around so much, you're like my shadow!",normal
+"[Player]! It's been fun seeing you so many times today, [catchphrase]. So, what can I do for you?",normal
+"[Player] again! What can I do for you, [catchphrase]?",normal
+"[Greeting]. I hope you're enjoying this lovely weather. So, how can I help you?",normal
+"OK. Catch you later, [catchphrase]!",normal
+All right! Come chat anytime.,normal
+"Oh, OK. Don't be a stranger!",normal
+"Oh, that's right. I wanted to share something with you. Sometimes you'll find a perfect [native town fruit] mixed in with the others. They look different from normal fruit, making them easy to spot. A perfect [native town fruit] is a rare treat, so keep your eyes peeled for them, [catchphrase]!",normal
+"Um, [player]. I hope this isn't presumptuous, but I think you could use [a/an] [item].",normal
+"Would you be interested in buying [a/an] [item]? My asking price is [number] Bells, which I think is pretty fair.",normal
+"Big events are great, but I enjoy everyday life too. It gives me the chance to unwind, [catchphrase].",normal
+"I know this is out of the blue, but do you know what I'm thinking about at this very moment?",normal
+"I see you're off to save the world from evil yet again! I'll be cheering for you, [catchphrase].",normal
+"It's hard to tell how much of the gossip you hear is true, isn't it? Before you go repeating a rumor... it's best to look into it yourself.",normal
+"Living alone can get... well, kind of lonely. So it's great to have such friendly neighbors!",normal
+"When nothing else is going on, I'm usually reading or experimenting with new recipes at home. Feel free to drop by my place anytime!",normal
+"I wonder what [specific villager] and [specific villager] would say about their relationship. They seem to spend a lot of time arguing with each other and then making up. That sort of thing would wear me out, [catchphrase].",normal
+It's no surprise that [specific villager] and [another villager with the same personality] are really good friends. I feel like they bring out the best in each other!,normal
+"The other day, [male villager] asked me to take something over to [female villager]'s house. Those two are always giving each other presents! They get along so well, don't they. To be honest, I'm a little jealous.",normal
+"[Villager 1] and [Villager 2] spend a lot of time together. I wish they'd let me join them. But I suppose there would be a crowd, [catchphrase].",normal
+"It's so sunny today. If it stays like this, I bet we'll be able to see a lot of stars tonight!",normal
+"Mmm, weather like this calls for making [banana bread/cotton candy] later.",normal
+"On a day like today, it's hard not to think of one of my favorite books: [Hide-and-Seek: A Memoir/Playing to Win the Stalk Market].",normal
+Birthdays mean being one step closer to maturity. Someday I want to be mayor of my own town!,normal
+"Hee hee! I just heard the best cake joke, [player]. Remind me to tell it to you on your birthday.",normal
+"I hear the town's biggest ever cupcake was baked on my birthday, many years ago!",normal
+"I wish every day was my birthday. Not just for the cake, but because I get to spend it with you two!",normal
+This has truly been a happy birthday for me! You guys are the best friends ever.,normal
+"I'm so glad you could make it today! I beg your pardon, but is that a gift for me?",normal
+"It's not required or anything! But by any chance, did you...?",normal
+"My birthday only happens once a year, so I'm glad my friends could make it. Oh? Do I spy a present for me?",normal
+Everyone in town is excited about having extra hours of daylight!,normal
+"Having a good day, [Player]? I am! More hours in the day means more time for fun, [catchphrase]!",normal
+"Strange, I'm so sleepy. Wait. I guess it's not strange. It is nighttime after all, [catchphrase]!",normal
+"All this extra daylight is making me very productive. I'm taking care of all kinds of business, [catchphrase]!",normal
+"Oh, I see... I guess when I write to you, I'll have to write about something that will really grab your attention!",normal
+"Oh! Take a look at this, [catchphrase].",normal
+"Hmm, I'm looking for a little insight on interior design. I want to get something to replace my [item]. If you find something would work, could you please bring it over?",normal
+"I hear the ""in"" bug this season is the [insect]. It sure is neat looking... I would love to have my own! Would you go out and catch one for me?",normal
+"I've developed a recent interest in [fish] ecology, [Player]. It would be fascinating to have one at home for research purposes... Could you catch one for me?",normal
+"It really hurts that you keep pushing me like that! If you need me for something, use your words! You don't have to shove me!",normal
+HEY! Don't push me around like that. It hurts my feelings!,normal
+"Hey! HEY, [player]! What are you doing?! I don't like being pushed around!",normal
+WAH! Why'd you do that?! Don't scare me like that?!,normal
+What are you doing? You don't need a megaphone to my attention!,normal
+"What are you doing, [player]?! I can't condone violence, especially when it's against me!",normal
+"If you need something, ask me later! I'm not in the mood to talk to anyone right now!",normal
+I'm sorry. I just want to be left alone right now... [catchphrase].,normal
+I don't feel like talking to you right now!,normal
+"Just leave me alone already, [catchphrase]!",normal
+"Ugh... I'm not in the mood to talk, [catchphrase]. Please just let me mope for a while.",normal
+"What is your problem?! Leave me alone, [catchphrase]!",normal
+"I've really enjoyed chatting with you. But the thing is, I need a little time to myself now... If you still want to talk later, I'll be around.",normal
+"I'm sorry, but there's something else I need to concentrate on. I feel bad for brushing you off when you've been so kind, but let's talk more later.",normal
+"What to do, what to do... Oh! Excuse me! I was so lost in thought, I didn't even notice you! I'd love to chat, but I just can't right now. Later, OK?",normal
+Oh! Oops! Didn't see you there! I've just got something on my mind right now... I need some more time to think it over. Let's catch up later!,normal
+"ACK! Y-You startled me. Sorry, I'm a little preoccupied right now. Can whatever it is wait?",normal
+"Hey again, [player]. What can I help you with this time, [catchphrase]?",lazy
+"Hi again, [player]. What's happening, [catchphrase]?",lazy
+"Hi again, [player]! What's up now, [catchphrase]?",lazy
+"Hi, [player]! What's shaking, [catchphrase]?",lazy
+"Is everything OK with you, [player]? What do you want to talk about now, [catchphrase]?",lazy
+"So we meet again. What can I do for you, [catchphrase]?",lazy
+"Aw, are you feeling lonely! Well, what do you want to chat about, [catchphrase]?",lazy
+"Calm down, [player]. I want you to speak slowly, [catchphrase]!",lazy
+"Hey there! Look at us bumping into each other again, [catchphrase]. So, anyway, what's up?",lazy
+"Don't worry. I've always got time for you, [player]. Well then, what can I do for you?",lazy
+I've always dreamed of having a secret lair. That would seriously be one of the best things about being a superhero. The only problem is that I'd want to brag about it. But then it wouldn't be a secret anymore. Hmm. I'd better think about this a little more.,lazy
+"So I was sitting in front of the tree in the plaza... And I was suddenly overcome with memories of tons of things that have happened in [Town]. That tree must have seen all kinds of stuff in its life, [catchphrase]. Next time you want to kick back, you should try sitting there!",lazy
+"You know how one person's taste is another person's treasure? Well, my stuff is all treasure. So how about trading your [item 1] for my [item 2]? What do you say?",lazy
+"Have you noticed how [Villager 1] and [Villager 2] are really good friends? They're like peanut butter and jelly, [catchphrase]!",lazy
+"Not to be a big old gossip, but I heard that [Villager] has really ticklish feet! Uh huh huh... I'm totally going to use that to my advantage next time I want something from [them].",lazy
+"So [Villager] was asking me whether girls and boys can be friends. Personally, I don't think there's any question about the answer. Of course they can! Just look at [Villager 1] and [Villager 2]! They're always hanging out and having fun together. I kinda wish I could join their little friendfest too, [catchphrase].",lazy
+"The other day, [Villager 1] forgot [Villager 2]'s name for a second! But [Villager 2] said he didn't mind at all! I thought the situation was going to get really awkward, but it ended up being just fine.",lazy
+"[Male Villager] and I are like brothers. Hmmm. I wonder who's the big brother... I'm definitely more put together, so it's probably me, [catchphrase].",lazy
+"You're from this town, aren't you? I'm having a great time camping here!",lazy
+The air in this town smells delicious! If only I could bottle it and bring it back home with me!,lazy
+"It can be kind of a hassle building a campfire, but it's definitely worth it. Warming my feet around the fire is soooo sweet, [catchphrase]!",lazy
+Everything tastes better when you're camping! The fresh air is like a megaphone for food. It really bumps up the flavors' volume!,lazy
+"Tents are a lot more comfortable than I thought. They're so comfy, I'm napping even more than usual.",lazy
+"I have to ask you something, [player]. Don't you think I smell good today?",lazy
+"Umm... I don't know if I should be waking up or going to bed. Should I be snacking or snoozing right now? The Summer Solstice is kind of hard for me to wrap my head around, [catchphrase].",lazy
+"It finally feels like summer now that it's the solstice! And summer means lots of different bugs! I'm gonna catch a whole mess of bugs this summer, [catchphrase]!",lazy
+"It's great that it's still light out. Great in a kind of weird way, [catchphrase].",lazy
+"There's no night today, so does it still make sense to call dinner ""dinner""? I think I'm gonna call it ""lunch the second""! Yeah, that sounds good!",lazy
+"Yo, [player]! You soaking in the blazing sunshine, [catchphrase]?'",lazy
+"This year is almost over, and it's bumming me out just the tiniest bit, [catchphrase].",lazy
+STOP! STOP PUSHING ME!,lazy
+"Why are you pushing me around? If it's a joke, it's not very funny...",lazy
+"You can't just go around pushing people around 'cause you feel like it. It's really rude, [catchphrase].",lazy
+"Why'd you hit me?! I thought we were friends, [player]!",lazy
+"What the heck, [player]? That hurt, you know! Do you get your kicks being mean to people?!",lazy
+"OW! Someone hit me! Wait a second... What's in your hand? Did YOU hit me, [player]? Why you do something like that? That was so mean!",lazy
+AAAAAAAAAAAAAUGH! What the heck is this?!,lazy
+Nooooooooooooooooooooooo! I'm stuck!,lazy
+Waaaaaahhhh! Somebody help me!,lazy
+Grrrr! Everyone better stay outta my way!,lazy
+I'm so mad I'm about to blow my stack! Everyone better watch out!,lazy
+Don't come near me. My sadness is contagious...,lazy
+Ugh... Feeling down is making me hungry...,lazy
+"Just leave me alone. I'm in a bad mood, and I don't feel like talking.",lazy
+"When you're feeling down, you can't help looking down, [catchphrase].",lazy
+Man... I feel like my last bite of [food] was snatched away from me...,lazy
+"I'm flattered you want to chat so much, [player]. But I've got some important things on my mind, so let's talk later, [catchphrase].",lazy
+"So if I do that, I'll have to take care of that other thing. But that other thing is a problem too... Oh, you kind of caught me in the middle of working out a problem. Talk to me later, OK?",lazy
+"Sorry, but I can't talk right now. I actually need to focus on something else.",lazy
+"Heya, [player]! Heh... Made ya look, [catchphrase]!",uchi
+"Oh, [player]! Good to see ya, [catchphrase]!",uchi
+"Yo, [player]! You get around, eh? [Catchphrase]!",uchi
+"[Player]! I'm seeing you a lot today, [catchphrase]!",uchi
+"...[Player]! What's the hurry, [catchphrase]?",uchi
+"Whoa, [player]! Simmer down! [Catchphrase]!",uchi
+"Hey! These clothes were made by [Designer] from Treehut. It's an original design! I think it's named... ""[clothing]""! It's amazing this stuff made it to a different town! It's so cool, [catchphrase]!",uchi
+"If you take care of your flowers just right, sometimes you can get rare-colored flowers to bloom. It has a lot to do with where you plant 'em. Like, you can crossbreed flowers that are next to each other. When it happens, you'll be like, ""Man, I'm glad I took care of those little flowers dudes!"" [Catchphrase]!",uchi
+Oh! You're not gonna beleive this! I've got something cool to show ya! Ta-da! It's from the past!,uchi
+"When there aren't any big festivals coming up, you get to focus on your hobbies! It's like, uh, what's it called? Keeping your work and your play separate from each other? Course, festivals count as play too, I guess! [Catchphrase]!",uchi
+"When you're looking up at the sky... sometimes balloons just come flying outta nowhere, right? What I wanna know is...who the heck is sending 'em out? But I guess it's cool for a mystery to stay a mystery sometimes! [Catchphrase]!",uchi
+"[Player]! It's gonna stay out light tonight! Weird and thrilling... That's the Summer Solstice for ya! I'm getting excited, [catchphrase]!",uchi
+"So the Summer Solstice isn't necessarily the hottest day of the year, right? But if the length of the day and the heat aren't always connected... where does the heat come from? Aw, man! Thinking about this tricky stuff just makes my brain even more hot! [Catchphrase]!",uchi
+"Hello, dear! Look! Look! The sun's really not going anywhere! [Catchphrase]!",uchi
+"Sun's up pretty high now... Is it really gonna be light out all night tonight, [catchphrase]?",uchi
+"[Player]! Evening! Er...is that the right thing to say? I mean, it's light out, but according to the clock, it's nighttime! Weird, right? [Catchphrase]!",uchi
+"Hello, dear! Today's gonna be super long, so you better pace yourself, [catchphrase]!",uchi
+"I didn't think I'd be so excited about having it light outside so late in the evening, [catchphrase]!",uchi
+"Oh! Hey, [player]! Today's the Summer Solstice! This whole sun-staying-out-all-night thing... It just doesn't sit right with a night owl like me, [catchphrase].",uchi
+Man... you again? Are you just super active 'cause of the Summer Solstice? [Catchphrase]!,uchi
+"Once you realize it's gonna be bright all day, all of a sudden you just want it to be dark! Ahhh! I can't wait for nighttime tomorrow! [Catchphrase]!",uchi
+"I want the new year to hurry up and get here, but I'm also gonna miss the old year... Aaaah! I can't wait anymore! Hurry up, new year! [Catchphrase]!",uchi
+It's already [time]?! OK! Gotta get ready! Bring on the new year! [Catchphrase]!,uchi
+"Let's make next year a great one too, [player]!",uchi
+You can feel all of [Town] getting psyched to celebrate the new year... I love it! It's like an electric calm before the party! [Catchphrase]!,uchi
+"Oh, right! Yeah, I wanted to run something by you. So, uh...think you could bring me a pear? Lately I'm on a crazy new pear kick! I need as many as I can get, so I'm asking everyone I know for help! Ya feel me? Get me a pear!",uchi
+"The other day I read this book called [Species] Storm Caller. It was sooooo cool! I wonder if I have storm-calling superpowers? Course...we don't really need bad storms in this town, [catchphrase]!",uchi
+"Hey, [player]! What do you think of my clothes?",uchi
+Hee hee! Really? You're gonna make me blush! [Catchphrase]!,uchi
+"Hey... So this is sudden, but can you take my [item] off my hands?",uchi
+"Whoa, you have your [clothing] with you, don't you? Oh, man! I'm super jealous! I can't remember the last time I even saw one of those items! Hey! I'm just gonna toss out an idea here... Wanna make a trade? Your [clothing] for my [furniture]?",uchi
+"Hey! You going over to see [Villager] anytime soon? If you are, there's something I want you to give back to 'em... OK?",uchi
+"I got my hands on something that [Villager] asked me for a while ago... But hasn't come to get it! If you can, would you take it over?",uchi
+"Oh! By the way, a package for [Villager] got delivered to my place by mistake. I don't know what [Villager] ordered... but I bet would like to have it! Do you think you can take it over to [Villager] for me?",uchi
+"Oh! Hey... So I actually have to ask you something. Can you take a present to [Villager] for me? I got it for 'em as a congratulations for some... good news. But I'd be too embarrassed to deliver it myself! So, yeah! Will you deliver it for me?",uchi
+"Oh, yeah! Any chance you're going to see [Villager] soon? If you are, can you take 'em something they left here a while back? How 'bout it?",uchi
+Haha... I guess I really should be the one to take it back! [Catchphrase]!,uchi
+"Huh? Really? Ah, well... I'll just look for someone else! [Catchphrase]!",uchi
+"OK... Well then, I'll just find the guts to go myself! [Catchphrase]!",uchi
+"Oh! If you can't do it, that's OK! I'll just have 'em come to get it! [Catchphrase]!",uchi
+"Oh, OK... Well, fine then. I'll find the guts to do it myself!",uchi
+Huh? Changed your mind?,uchi
+Huh? Not happening? Dude! Quit playin' around! [Catchphrase]!,uchi
+"[Villager 1] and [Villager 2] are really good friends, huh? Ever see the two of them talk? It seems like they can gab with each other for hours! They're together all the time! [Catchphrase]!",uchi
+"Heh, the other day [Villager] taught me a good trick. If you ever run out of stuff to talk about, just talk about the weather! I didn't expect to hear that kind of thing, [catchphrase]!",uchi
+"The other day [Villager] was like, 'You used to be into hockey, right?' Can you believe that? Hockey, man... How could anyone not know I'm famous for wrestling? [Catchphrase]?",uchi
+"Hey! What's the deal?! Dude! What's with you?! Don't just push me like that and not say anything, [catchphrase]!",uchi
+"Hey, [player]! What's your deal?! You push me and then don't say anything about it? If you got a problem with me, spit it out! Use your words, [catchphrase]!",uchi
+Hey... [player]! What's with you? I know you're not looking for a fight! That's way uncool of you! Don't shove! Just talk to me normally!,uchi
+Arghh! This is awful!,uchi
+"Oh, Come on!! Why is there a hole right here!?",uchi
+"Hey! Hold up, [player]! ...What the heck are you doing? If you're looking for a fight, you found one! [Catchphrase]!",uchi
+Ooooooouch! ...That hurt! What do you think you're doing?!,uchi
+"...OWW! [Player], what gives?! You're no amateur! Don't just swing wildly like that!",uchi
+Duuude... Can't you see I'm not in the mood to talk? Seriously! Just leave me alone! [Catchphrase]!,uchi
+"Man... I do NOT wanna talk right now. Just clear out, [catchphrase]!",uchi
+"Man, if it's not one thing, it must be something else! I'm mad at myself for letting myself get mad, [catchphrase]!",uchi
+What? Yeah. Sorry. Don't really wanna look at your face right now. [Catchphrase]!,uchi
+"Uhhh... I was gonna say something, but I can't remember what it was... Sorry, [player], but could you just leave me alone for a bit? I need to think, [catchphrase].",uchi
+"Umm... Umm... C'mon, c'mon! Gotta figure this out! Huh? (Player's name)? You'll listen to my problems? Yeah, that's nice, I guess. But I want to figure this out myself! Leave me be, (catchphrase)!",uchi
+"Yo! [Player]! Am I having déjà vu, [catchphrase]? Didn't we just talk?",jock
+"[Greeting]! Whatcha want, [catchphrase]?",jock
+Hey! If it isn't [player]! How's my training buddy today? Check out this bod! [Catchphrase]!,jock
+"Heya, [player]! You training today, [catchphrase]? Don't slack just 'cause it's sunny! Whatcha need?",jock
+"Heya! What is it this time, [catchphrase]?",jock
+"Oh! [Player]! Whatcha need now, [catchphrase]?",jock
+"Oh?! Oh, you again. What now, [catchphrase]?!",jock
+"[Player], I don't think you even have a question. I think you just like talking to me! Is it my animal magnetism? What can I do for you, [catchphrase]?",jock
+"Rushing up to tale to me like that... Geez, you're impatient! What's so important, [catchphrase]?",jock
+"[Player]! Big favor for you! The other day I set a world record for the 100-meter dash. But no one was there to see it! So if you could go ahead and spread the news, that would be great! Thanks, bud! [Catchphrase]!",jock
+"Hey, [player]! Check me out! ...No, I'm not talking about my clothes! I wanted you to appreciate my rippling muscles! I think of clothes as the icing on the scrumptious cake that is my jaw-dropping physique! Haha!",jock
+I love it when the weather is like this! You can do weight training or just stay inside and watch sports!,jock
+"Man, I need a jogging buddy! I need someone who can take off for a run at the drop of a hat! Someone I can just be myself with! Like [smug villager] and [jock villager]! That's exactly what I need! Ha ha! I can't imagine the two of them jogging together, though!",jock
+"Recently I've been thinking about the best way to talk to [female villager]. We'll say hi to each other now and then, but I can never say anything to get the conversation going. Hmm... Maybe I'll ask her to try skiing with me!",jock
+"Ugh... I just bit it back there! But all this gravel stuck to my leg feels right! Nothing says ""man"" like a gravel-covered knee, [catchphrase]!",jock
+"What? You want me for some new sports league too? Man, I'm totally in demand! The other day this guy comes by wanting me to sign up for his new muay Thai venture. I was like, 'Sorry, bro! I'm totally booked up right now!' I gotta tell ya, [player], it felt kinda bad to break his heart like that...",jock
+"Whoa?! [Player]?! Does your face hurt? 'Cause it's killin' me! Bwahahahahaha! Just kidding, bro. But that's a serious makeover you've got going on there! Oh, I get it. You got stung by bees, didn't you? We gotta work on those reflexes, bro! [Catchphrase]!",jock
+"Whoa?! [Player]?! Does your face hurt? 'Cause it's killin' me! Bwahahahahaha! Just kidding, bro. But that's a serious makeover you've got going on there! Oh, I get it. You got stung by bees, didn't you? We gotta work on those reflexes, bro! [Catchphrase]!",jock
+"So let's see... If [player] were a soccer player, what position would they play?",jock
+"Hmm... I can see it... The aura that flows around you, [player]! It says 'clothing'!",jock
+"What's the matter? Tuckered toe muscles got you down? We're almost there, so suck it up!",jock
+"When was the last time you came over to my place? Hmm... I don't really remember, but I'm sure it was fun! [Catchphrase]!",jock
+"You want me to lead that way? No can do, ladybro! You need me in back to monitor those calf muscles, [catchphrase]!",jock
+"Looks like you worked up a good sweat getting over here. Gotta stay hydrated on those jogs, ladybro!",jock
+"My place is pretty cool, huh?",jock
+"My house looks pretty cool, don't you think? If you're really into the [Own name] style, you have my permission to copy whatever you want!",jock
+That citrus aroma you're smelling is the smell of youthful ambition! But some people say my place just smells like a gym. Ha ha!,jock
+"Like my [TV name]? One of my favorite sports show is on right now, I think...",jock
+"Hey! [Player]! Stop pushing me! What's gotten into you?! If you want to challenge me, do it the right way - with an official letter of intent. Sheesh!",jock
+Don't push me! What is with you? You practicing to be a sumo wrestler or something?!,jock
+"Whoa! Why are you pushing me?! You've got a lot of nerve! What are you thinking, [player]?!",jock
+"Oh, whoa! Who set up in this little trap?",jock
+"Wh-What's going on?! My butt is stuck, and I can't get out!",jock
+"Hey, punk! Why'd you hit me?",jock
+"Ouch! What gives, [player]?! If you wanna fight, bring it on!",jock
+"Ooooooh, barbells... That was a good solid hit. You got me good...",jock
+"It's go time for me today! I'm always at full speed, no matter what the weather is like!",jock
+"Heh heh! I hope tomorrow is clear, too! I just want today's weather to hold the way it is! [Catchphrase]!",jock
+Yeeeeahhh! Festivale only comes around once a year! Let's whoop it up and get this little town hopping!,jock
+This year's Festivale is ending too soon. I'm already missing it!,jock
+"When I look up, sometimes I see floating feathers. If you're collecting feathers, I've got a secret for you... But I think I'll tell you later.",jock
+"Just leave me alone already, [catchphrase]!",jock
+"Man, come on... I got to get over this...",jock
+"I may have strong biceps but it doesn't mean I'll never get hurt inside, even I get sad once in a while!",jock
+"[Villager 1] and [Villager 2] seem to have such a formal relationship. To really get to know someone, sometimes you have to go toe-to-toe in an argument.",jock
+"How goes it, [player]! If I may be so bold, you're looking as cool as a fair number of cucumbers.",smug
+"Hi. Seems quiet today, huh? Like, too quiet. [Catchphrase].",smug
+"You again, [player]? Well, that makes this a good day! A great day even! [Catchphrase]!",smug
+"Hi. Nothing like a chat with [Name] to brighten your day, yeah?",smug
+Hi. I knew you couldn't stay away! I can't blame you! [Catchphrase]!,smug
+"Whoa. You again? We're meeting a lot today, [catchphrase].",smug
+"At times like this, you should plan your own fun event, [player]! For example... 'An interview with [Own name]"" or '[Own name] invites himself to your house'... Oh, but, uh... Please don't plan anything like 'Wake-up prank on [Own name]'! I hate that event!",smug
+"Hey, hello, [player]! You're always welcome in the House of [Name].",smug
+"...How much have I spent on this room? [Catchphrase]? Why would you ask me something like that, [player]?",smug
+Heh heh heh. What do you think of my place? I hope you like it...,smug
+"How do I look? I tried to look sharp in my clothes today... Maybe I'm being too adventurous, but then again maybe I'm NOT, [catchphrase]. I'll try to tell myself that clothes ALWAYS feel strange the first time you wear them.",smug
+"What? You...had that hairstyle the last time I saw you... It's good you have your own style there. You should stick to it as long as you want, [catchphrase]!",smug
+"Er, I know you just want to snuggle, but I'm not a stuffed animal or something, [player]...",smug
+"H-hang on, [player]! You're too close right now! People are gonna think we're having a fight!",smug
+W-wait. Stop shoving me all around! I'm not a shopping cart!,smug
+I don't know who did this...but I would really appreciate some help right now!,smug
+"Someone, please help me out!",smug
+HEY! Nobody told me about this!,smug
+"Hey, that's not cool, [player]! I will suffer your slings and arrows no more, [catchphrase]!",smug
+"Why are you hitting me?! I'm not a stone, you know... I have feelings!",smug
+"You know, [player]? I'm so over my [shirt] now. I thought my image would be improved, but that's not how things work. Nope, didn't work at all. I'm just the same old me. Ugh, how awful. But... maybe you'd like my item? I'd sell this 'image modification device' at a modest discount. How about [number] Bells?",smug
+"Hey, [player], here's a little something I thought you'd like. I really struggled who to give my [furniture] to, but I realized YOU were the one.",smug
+"Hey, [player], didn't you tell me you want to get your hands on a [clothing]?",smug
+"Hey, lucky you, [player]! I'm feeling, well, megagenerous today, [player]!",smug
+"[Player], do you collect anything as a hobby, like stamps or toys or baseball cards, or video games?",smug
+"[Player], do you by any chance know the definition of 'SF' in SF movies or SF comics?",smug
+......,smug
+"Ah, great timing, [Player]! You're always so good about appearing when I need you! If you're going to [Villager]'s place today, could you deliver something important for me? The other day, [Villager] somehow forgot something at my house, and I want to give it back, [catchphrase].",smug
+"[Player], can I ask you something? Actually, it's really more of a favor for [Villager], as they asked me to buy something while I was shopping. Could you deliver it under secrecy? You know, we have to think about [Villager]'s privacy, after all.",smug
+"[Player]! Perfect timing! If you seen [Villager] today, could you bring it over? It's the thing I borrowed the other day, but I don't need anymore.",smug
+"I understand, [player]! I was wrong... I'll do it myself, without relying on anyone.",smug
+"Fine, I'll just hand it over myself. Heh heh heh... I never imagined you would give me a supportive push.",smug
+"OK, you're right. I'm the one who found it, so I should return it. I'll deliver it myself after all.",smug
+"You're right. I borrowed it, so I need to be the one to return it... Alright, [player], I'll deliver it myself!",smug
+I clean my room quite often just in case this exact situation comes up!,smug
+I never thought you'd ever want to come and visit me again!,smug
+"Before we get there, I'd like to ask you one thing: please don't be too jealous of my room's décor, OK?",smug
+Welcome to the house of [Own name]! Heh! That's me!,smug
+"Heh heh heh... Don't be so nervous. Just relax, [player]!",smug
+I have this habit of sprucing up my room with my favorite clothes... So basically you could say that the [clothing] is the best piece of clothing I own!,smug
+Could you just leave me alone for now? I'm having a moment of melancholy...,smug
+Haa... huh? Right now I feel that my heart is broken and will never be fixed again...,smug
+"I don't feel like I can trust anyone right now, so I need to be alone...",smug
+"I'm sorry, [player]! You might want to not talk to me right now! I'm a burning ball of red hot rage!",smug
+"I think you should really go away! I'm so mad, I might just end up pulling trees out by hand! RAWR!",smug
+I wonder why I'm so mad! I can't suppress my feelings!,smug
+"I think it's (Female villager)... No, maybe (Female villager)... Actually, it might be (Female villager)... ...Whoa! Heeeyy! Uhh, I'm, uhhh, kinda busy right now! Incidentally, some friendly advice: when you send flowers to a girl, remember which one it was...",smug
+"I should probably give (Female villager) some (Flower)... Or maybe a (Town Fruit)... ...Waah! Hi there! Startled me! Sorry, but I'm thinking about something right now, (Catchphrase).",smug
+"Guess what I saw! [Male villager] and [female villager] spending time together! They were sitting and drinking grape soda with one another... This must mean that their friendship is in good shape, [catchphrase].",smug
+"Oh boy. Rumors are scary, don't you think? Apparently, [villager] and I are... Well, if I understand it right, people think we're cousins somehow, [catchphrase]. Huh? Are we? Well... I don't know. I've gotta protect [villager]'s privacy, so I can't tell you anything else about this!",smug
+"Oh boy. Rumors are scary, don't you think? Apparently, [villager] and I are... Well, rumor has it we're going to buy a car together or something like that, [catchphrase]. Huh? Are we actually going to? Well...I don't know. Don't ask me about it. I have no future comment!",smug
+"Hello again! Need something, [player]?",snooty
+"Hello, [player]! You have something else to talk about today? So what did you want, [player]?",snooty
+"Can I help you, [player]?",snooty
+"Can I do something else for you, [player], [catchphrase]?",snooty
+"Well, hello again. Aren't you busy, [player]! So, what did you want, [player]?",snooty
+"What can I do for you, [player], [catchphrase]?",snooty
+"What, you again, [player]? How many times has it BEEN today, [catchphrase]?",snooty
+"Hello again, [player]. I'm always glad to talk with you. Even this much, [catchphrase]. So what did you want, [player]?",snooty
+"[Catchphrase], you look like a rock star... or a celebrity... Or someone who's really good at thrift-store shopping!",snooty
+"I can't believe I had to put on sunscreen today. Wait, I wear sunscreen every day. Ignore me.",snooty
+"I don't know if you believe in luck, [player], but I sure do. There are certain items I just KNOW are lucky. I have one I carry around all the time. It just so happens my lucky object goes really well with most of my outfits. What a coincidence! So if you find yourself in need for a lucky break or two, think about picking up a lucky charm. I'd recomment one that matches your eye color.",snooty
+"Have you ever seen an aurora, [player]? It's magical...and we may get one tonight! So keep your eyes open, and count your lucky stars if we do see one...",snooty
+"You know what? I can't think of a single event coming up soon. I guess that means I'll finally have time to catch up on my weeding. And my shell collection could use a little work. Some pretty ones have been washing up recently. Come to think of it, I don't have any time for events! [Catchphrase]!",snooty
+"[Other player] is a friend of yours, right? I've always thought of [other player] as a [reputation]. [Catchphrase], maybe it's just my imagination. But I'd like to get to know [other player] a little better.",snooty
+"Wait. Is [other player] actually living in a...what's it called...tent? [Catchphrase]! I have sort of a policy about the kinds of places I'll stay... No air-conditioning, no gourmet kitchen...no [Villager].",snooty
+I always see [Villager 1] and [Villager 2] out practicing volleyball together. It must be nice to have a close friend who's into the same things are you are...,snooty
+"I've been wondering, [player]: Are you really good at [sport]?",snooty
+"I hope you don't slurp when you eat spaghetti, [player]. Urgh! It just drives me up the wall!",snooty
+"You know, every time I eat [food], I think of my childhood. Nobody makes it like my mom! Are there any foods that make you nostalgic, [player]?",snooty
+"Player is prompted to choose between two options: ""Of course!"" and ""No, not really.",snooty
+"Really? You won't trade? Well, I guess I'll have to get with the trend some other way.",snooty
+Hey! Watch where you're going!,snooty
+Hey! Have you ever heard of a thing called 'personal space'?,snooty
+"Not very graceful, aren't we, [player]? Watch it!",snooty
+[Player]! I thought you had better manners than this.,snooty
+"Ahh, you scared me, [player].",snooty
+Whoa! Message received loud and clear...on the moon. You don't need to shout so loudly!,snooty
+"Wow, I can barely hear you. Can you TRY TALKING LOUDER? [Catchphrase]...",snooty
+"Hey, [player]...I appreciate your concern, but I'll get through this on my own. [Catchphrase]...",snooty
+"If you're trying to cheer me up, it's not working. I just need a little bit of alone time.",snooty
+I just don't know what to do...,snooty
+"It's called personal space - have you heard of it? Sorry, [player]. This isn't my finest hour.",snooty
+"How can I put this nicely... Let's see...BUZZ OFF! Sorry, [player]. I'm having a bad day.",snooty
+"I must have got up on the wrong side this morning, because I am just NOT in the mood to deal...",snooty
+The rage... it burns. GRR!,snooty
+That's it! I've had it!,snooty
+"[Player], don't even talk to me right now. I'm so mad, I can't see straight.",snooty
+"I hate to do this to you, [player], but could you come back and talk to me later? I just remembered something really important I need to take care of right now!",snooty
+"Are you trying to start some sort of rivalry with me, [player]? I warn you: this is a game you will lose.",snooty
+Hey! I hope you're just clumsy and not straight-up mean. It's not nice to plonk someone like that.,snooty
+"Hey! Bonk me with that thing again, [player], and I'll show you how to actually use it!",snooty
+Where did you learn your manners - in a boxing ring? Try having more class!,snooty
+"Whoa, excuse YOU! Just what do you think you're doing?",snooty
+"At present, I can assist you with the following tasks:",isabelle
+You...you can't be serious!,isabelle
+"I mean, rebuild the town? That means [town] will be TOTALLY gone. Is that what you really want?",isabelle
+All the Bells you've earned... All your furniture... It will all be lost.,isabelle
+And those who live in this town? ALL GONE!,isabelle
+"Are you sure about this? This is absolutely, positively what you really, really want?",isabelle
+Understood. If you feel that strongly about it...,isabelle
+It's done. I hope we meet again someday...somewhere!,isabelle
+"[Greeting, Mayor [Name]/[Name]! In [town], it's [Day of the week], [month] [ordinal number], [year], and the time is [specific time]. Well then, shall we get started?",isabelle
+"[At present, I can assist you with the following tasks.]",isabelle
+"Okay, is that all? We'll just - wait, WHAT? Are you sure you really want to destroy your own house, [Name]? If we did that, you'd lose all your records. Everything would be gone! Do you really want to do this?",isabelle
+Wonderful! Let me get you set up.,isabelle
+"All right, all set!",isabelle
+"Oh, but there is a... slight problem. Last time you left without saving your game. So some of what you did last time may be gone. I'm very sorry. Please remember to save whenever you leave the game, OK?",isabelle
+"At present, I can assist you with the following tasks:",isabelle
+Oh my! Has my clock gone out of whack? Then please tell me what the correct time it is!,isabelle
+"So that's [specific time] on [month] [ordinal number], [year]. Correct?",isabelle
+"What?! Sorry, but my ears are just too fluffy and muffly, I guess. Please tell me once more.",isabelle
+"So that's [specific time] on [month] [ordinal number], [year]. Correct?",isabelle
+OK! That should do it! The time should now be correct.,isabelle
+Wonderful. Let me get you set up.,isabelle
+"OK, all set! Oh, that's right! Um, (Mayor [Name]/[Name])?",isabelle
+"Someone new has moved into town today! Why don't you drop by and have a chat, (Mayor [Name]/[Name])?",isabelle
+Wonderful. Let me get you set up.,isabelle
+"OK, all set! Oh, that's right! Um, (Mayor [Name]/[Name])?",isabelle
+"One of our residents, [villager], is leaving tomorrow. It's a little sad, isn't it?",isabelle
+Hello! Welcome to ____ town hall service center! Is there something you'd like to inquire about?,isabelle
+Hello! Welcome to [town] town hall service center! Is there something you'd like to inquire about?,isabelle
+"You want to know how satisfied the citizens of [town] are? Here in [town], we believe that the citizens deserve to be heard. That's why we've established a committee to gauge the needs of the population! So, without further ado, here are the results of the latest survey...",isabelle
+Hello! Welcome to [town] town hall service center! Is there something you'd like to inquire about?,isabelle
+You'd like to submit a new design for the [town] flag? Great! Please show me the design!,isabelle
+Wow! It's perfect! It really captures the spirit of [town]! We'll use this design as our new town flag. Thank you for your excellent submission!,isabelle
+Hello! Welcome to [town] town hall service center! Is there something you'd like to inquire about?,isabelle
+Phew! That's a relief. I don't like confrontation...,isabelle
+Which citizen seems to be causing the trouble?,isabelle
+What don't you like about [villager]?,isabelle
+"Oh my... so [Villager] hasn't been speaking politely lately? Do you want me to ask [citizen] to stop this behavior? I have the authority to do that, you know.",isabelle
+"Oh my... So [villager] hasn't been dressing very nicely lately? Do you want me to ask [villager] to stop this behavior? I have the authority to do that, you know.",isabelle
+"Oh my... so [villager] is carrying around a bad letter? Do you want me to ask [villager] to stop this behavior? I have the authority to do that, you know.",isabelle
+It's just a game. Waaah!,resetti
