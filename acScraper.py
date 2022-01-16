@@ -7,8 +7,9 @@ url_list = ["https://animalcrossing.fandom.com/wiki/Guide:Cranky_dialogues_(New_
 "https://animalcrossing.fandom.com/wiki/Guide:Player_dialogues","https://animalcrossing.fandom.com/wiki/Guide:Normal_dialogues_(New_Leaf)",
 "https://animalcrossing.fandom.com/wiki/Guide:Lazy_dialogues_(New_Leaf)", "https://animalcrossing.fandom.com/wiki/Guide:Sisterly_dialogues_(New_Leaf)",
 "https://animalcrossing.fandom.com/wiki/Guide:Jock_dialogues_(New_Leaf)", "https://animalcrossing.fandom.com/wiki/Guide:Smug_dialogues_(New_Leaf)",
-"https://animalcrossing.fandom.com/wiki/Guide:Snooty_dialogues_(New_Leaf)"]
-label_list = ["cranky","peppy","player","normal","lazy","uchi","jock","smug","snooty"]
+"https://animalcrossing.fandom.com/wiki/Guide:Snooty_dialogues_(New_Leaf)","https://nookipedia.com/wiki/Cranky/New_Horizons_dialogue","https://nookipedia.com/wiki/Lazy/Wild_World_dialogue",
+"https://nookipedia.com/wiki/Lazy/Pocket_Camp_dialogue"]
+label_list = ["cranky","peppy","player","normal","lazy","uchi","jock","smug","snooty","cranky","lazy","lazy"]
 #the format of these pages is slightly different, so they are their own list
 p_urls = ["https://animalcrossing.fandom.com/wiki/Guide:Isabelle_dialogues","https://animalcrossing.fandom.com/wiki/Guide:Resetti_dialogues_(Animal_Crossing)",
 "https://animalcrossing.fandom.com/wiki/Franklin_Dialogue_(GCN)", "https://animalcrossing.fandom.com/wiki/Jingle_Dialogue_(GCN)"]
@@ -48,5 +49,6 @@ print("Dialogue has been scraped!")
 
 df_data = {'dialogue':dialogue, 'labels':labels}
 dialogue_df = pd.DataFrame(df_data)
+print(dialogue_df.tail())
 dialogue_df.to_csv('dialogue.csv', index=False)
 print("Dialogue has been saved!")
